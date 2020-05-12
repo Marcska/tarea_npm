@@ -1,2 +1,1 @@
-#Tarea de Sistemas de información
-Alumno: Marco Giovanni Guerrero Lopez
+# Tarea de Sistemas de informacion
